@@ -21,3 +21,13 @@ body{
     border-radius: 10px;
     box-shadow: 0 15px 25px rgba(0, 0, 0, 0.15);
 }
+.scores{
+    margin: 50px;
+    text-align: right;
+}
+.weapons{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
